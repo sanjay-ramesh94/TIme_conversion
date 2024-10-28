@@ -69,7 +69,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/time-conversion-project.git
+git clone https:https://github.com/sanjay-ramesh94/TIme_conversion.git
 Open the project in NetBeans.
 
 Set up your MySQL database as described above.
